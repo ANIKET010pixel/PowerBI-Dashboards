@@ -16,6 +16,3 @@ Dataset: [Amazon Prime Data on Kaggle]([https://www.kaggle.com/some-url](https:/
 - Yearly content releases
 - Rating distribution
 - Interactive filtering for granular insights
-
-## Insights
-Amazon Prime's content heavily features drama and action movies, with a peak in releases in 2019.
